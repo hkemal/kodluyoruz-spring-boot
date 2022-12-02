@@ -1,6 +1,3 @@
-### special commit
-log/*
-
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -36,3 +33,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+#### special commit
+/log/
+/memory_persist/
+log/*
