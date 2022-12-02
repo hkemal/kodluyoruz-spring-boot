@@ -8,5 +8,6 @@ public class KodluyoruzSpringBootApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(KodluyoruzSpringBootApplication.class, args);
+        System.out.println("Hello World");
     }
 }
