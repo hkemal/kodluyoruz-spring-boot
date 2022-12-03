@@ -8,7 +8,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
         org.springframework.boot.actuate.autoconfigure.security.servlet.ManagementWebSecurityAutoConfiguration.class
 })
 public class KodluyoruzSpringBootApplication {
-
     public static void main(String[] args) {
         SpringApplication.run(KodluyoruzSpringBootApplication.class, args);
     }
